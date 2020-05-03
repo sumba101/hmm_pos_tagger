@@ -1,0 +1,9 @@
+This:DT
+was:VBD
+caused:VBN
+by:IN
+shortages:NNS
+in:IN
+personal:JJ
+protecting:VBG
+equipment:NN
